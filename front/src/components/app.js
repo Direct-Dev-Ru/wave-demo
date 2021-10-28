@@ -18,6 +18,7 @@ class App extends React.Component {
 						console.log("Alert button clicked");
 					}}
 				/>
+				<p>Press with pretty button to get an alert !!!</p>
 			</div>
 		);
 	}
